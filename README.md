@@ -39,7 +39,7 @@ I'm currently focused on building a strong foundation in software engineering th
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/gracysinngh/)
-* Email: gracysinngh27@gmail.com
+* [Email](mailto:gracysinngh27@gmail.com)
 
 ---
 
