@@ -2,7 +2,8 @@
 
 ### Software Product Engineering Student @ Kalvium × SGT University
 
-I'm currently focused on building a strong foundation in software engineering through Data Structures & Algorithms, Git/GitHub, and Full-Stack Development.
+Interested in technology, product thinking and building things that solve real problems.
+Currently strengthening my foundations in software engineering, one project and one commit at a time.
 
 ## 🚀 Currently Learning
 
@@ -36,12 +37,16 @@ I'm currently focused on building a strong foundation in software engineering th
 * Contribute to open source
 * Become internship-ready by the end of second year
 
-## 📚 2026 Focus
+## 🚧 Currently Building
 
-* Consistent coding practice
-* Building meaningful projects
-* Learning software engineering fundamentals
-* Documenting my journey through code
+- Learning Git & GitHub deeply
+- Growing my DSA repository
+- Exploring full-stack development
+
+## 📚 Currently Reading
+
+The Power of Now — Eckhart Tolle
+
 
 ## 📫 Connect With Me
 
